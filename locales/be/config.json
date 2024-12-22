@@ -90,7 +90,7 @@
   "[enterCategoryIDHere]": "[УВЯДЗІЦЕ ID КАТЭҐОРЫІ]",
   "[enterTermHere]": "[УВЯДЗІЦЕ ТЭРМІН]",
   "[enterNumberHere]": "[УВЯДЗІЦЕ ЛІК]",
-  "[enterThemeCSSURLHere]": "[УВЯДЗІЦЕ ТУТ URL CSS ТЭМЫ]",
+  "[enterThemeCSSURLHere]": "[УВЯДЗІЦЕ URL CSS ТЭМЫ]",
 
   "youCanCustomizeTheLayout": "Вы можаце зьмяніць макет кантэйнэру ўжываючы сэлектары <code>.giscus</code> ды <code>.giscus-frame</code> на ўкаранёнай старонцы.",
   "tryItOut": "Паспрабуйце гэта"
